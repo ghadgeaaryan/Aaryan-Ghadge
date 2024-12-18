@@ -46,9 +46,9 @@ I'm currently learning about open-source contribution and looking for beginner-f
 ---
 
 ## 💬 Let's Connect
-- LinkedIn: [linkedin.com/in/ghadgeaaryan](www.linkedin.com/in/ghadgeaaryan)
-- Twitter: [twitter.com/ghadgeaaryan](https://x.com/aaryan_ghadge)  
-- GitHub: [github.com/ghadgeaaryan](https://github.com/ghadgeaaryan)
+- LinkedIn: [www.linkedin.com/in/ghadgeaaryan](www.linkedin.com/in/ghadgeaaryan)
+- Twitter: [https://x.com/aaryan_ghadge](https://x.com/aaryan_ghadge)  
+- GitHub: [https://github.com/ghadgeaaryan](https://github.com/ghadgeaaryan)
 
 ---
 
