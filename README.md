@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm an enthusiastic developer and student explorin
 - 💻 Passionate about **Machine Learning**, **Data Science**, and **AI**.
 - 🌱 Currently learning **Open Source Contribution** and improving my skills in **Python** and **Machine Learning**.
 - 🤝 Open to collaborating on **open-source projects** and innovative ideas.
-- 📫 Reach me at: [ghadgeaaryan@gmail.com](mailto:ghadgeaaryan@gmail.com)
+- 📫 Reach me at: [ghadgeaaryan@gmail.com](mailto:aaryanghadge07@gmail.com)
 
 ---
 
